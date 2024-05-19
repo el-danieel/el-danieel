@@ -34,6 +34,7 @@ Sou um entusiasta de tecnologia apaixonado por aprender e explorar novas áreas 
 ---
 
 ### 📫 Contato
+Você pode me encontrar no LinkedIn ou enviar um e-mail:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Ferreira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario-linkedin/)](https://https://www.linkedin.com/in/danielferreirapinheiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Ferreira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielferreirapinheiro/)](https://www.linkedin.com/in/danielferreirapinheiro/)
 [![Gmail Badge](https://img.shields.io/badge/-danielfpinheiro60@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielfpinheiro60@gmail.com)](mailto:danielfpinheiro60@gmail.com)
