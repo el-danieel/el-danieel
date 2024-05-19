@@ -28,8 +28,7 @@ Sou um entusiasta de tecnologia apaixonado por aprender e explorar novas áreas 
 ### 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-danieel&layout=compact&width=400" alt="Top Langs" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=el-danieel&show_icons=true&theme=radical&width=400" alt="Daniel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-danieel&layout=compact&width=400" alt="Linguagens mais utilizadas" /> <br>
 </div>
 
 ---
