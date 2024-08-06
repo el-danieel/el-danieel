@@ -4,7 +4,7 @@ Sou um entusiasta de tecnologia apaixonado por aprender e explorar novas áreas 
 * 🔎 Atualmente estudando análise e predição de dados com Python para um projeto de iniciação científica <br><br>
 * 💻 Aprendendo a desenvolver sistemas com Node.JS <br><br>
 * 🌍 Desejo criar projetos que tenham um impacto positivo no mundo e na vida das pessoas <br><br>
-* 🗺️ Curiosidade: sou apaixonado por geografia! <br><br>
+* 📊 Curiosidade: sou apaixonado por estatística e gráficos! <br><br>
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
