@@ -1,8 +1,8 @@
 # Oi! Eu sou o Daniel Ferreira 😁
 ### ✨ Sobre Mim
 Sou um entusiasta de tecnologia apaixonado por aprender e explorar novas áreas de desenvolvimento e ciência de dados. Atualmente, estou focado em aprimorar minhas habilidades em Python para análise de dados e desenvolvimento de sistemas com Node.js. Adoro colaborar em projetos interessantes e estou sempre aberto a novas oportunidades e desafios. <br><br>
-* 🔎 Atualmente estudando Machine Learning com Python para um projeto de iniciação científica <br><br>
-* 💻 Aprendendo Engenharia de Dados com Python em um Bootcamp da DIO <br><br>
+* 🔎 Desenvolvi um projeto de pesquisa acadêmica onde utilizei técnicas de Machine Learning <br><br>
+* 💻 Estudandao Ciência de Dados com Python <br><br>
 * 🌍 Desejo criar projetos que tenham um impacto positivo no mundo e na vida das pessoas <br><br>
 * 📊 Curiosidade: sou apaixonado por estatística e gráficos! <br><br>
 ---
